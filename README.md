@@ -3,7 +3,7 @@
 Java֪分享网<br>
 http://www.java1234.com/
 
-2018！尚硅谷全套视频200G，免费下载，自学一样拿1万+月薪！尚硅谷SpringBoot、SpringCloud倾心之课！
+`ceshi`
 
 【Java基础,Java9,JavaWeb】<br>
 www.atguigu.com/download.shtml 
